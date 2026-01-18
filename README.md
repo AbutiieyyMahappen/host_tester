@@ -49,13 +49,11 @@ furnished to do so, subject to the following conditions:
 ... (rest of the license text)
 
 Author
-- [Your Name] (mailto:your@email.com)
+- [Abutieyy Mahappen] (mailto:your@email.com)
 
 GitHub
 - https://github.com/your-username/mahappen-tool
 
 <p align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Abutieyy Mahappen]
 </p>
-
-I added some Markdown formatting, shields, and a bit of flair to make it look more visually appealing 😊!
